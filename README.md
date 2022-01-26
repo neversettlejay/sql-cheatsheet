@@ -1,7 +1,7 @@
 # SQL-cheatsheet
 
 Personal cheat sheet for querying relational database in SQL SERVER
-### SQL video link: [a link](https://drive.google.com/file/d/1Su9JDSS4qxDoEUpQ2mGC3raJNuzfMWKp/view?usp=sharing)
+### SQL video link: [edureka SQL video link](https://drive.google.com/file/d/1Su9JDSS4qxDoEUpQ2mGC3raJNuzfMWKp/view?usp=sharing)
 ### Some common sql code snippets:
 ```
 CREATE FUNCTION dbo.UdfGetProductsScrapStatus
